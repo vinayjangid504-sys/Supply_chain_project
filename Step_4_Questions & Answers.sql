@@ -1,5 +1,3 @@
-use supply_chain;
-
 
 ### Section A: Level 1 (Basic Queries)
 -- Focus: SELECT, FROM, WHERE, ORDER BY, GROUP BY
